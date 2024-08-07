@@ -1,4 +1,4 @@
-organID,title,location,SOL_type,tirads,echo,sol_size,sol_size_unit,feature,contour,boundary,morphology,aspect_ratio
+organID,title,location,SOLtype,tirads,echo,sol_size,sol_size_unit,feature,contour,boundary,morphology,aspect_ratio
 1,甲状腺,甲状腺左侧叶|甲状腺右侧叶|甲状腺双侧叶|甲状腺峡部|unknown,结节|血管瘤|错构瘤|囊肿|其它,TI-RADS 0|TI-RADS 1|TI-RADS 2|TI-RADS 3|TI-RADS 4|TI-RADS 4a|TI-RADS 4b,无回声|囊性回声|偏囊性回声|等回声|低回声|稍低回声|偏低回声|实性回声|中低回声|极低回声|极低回声|囊实性回声|海绵状|囊性|实性|囊实性|混合性,1|2|3|4,mm|cm,有钙化|无钙化,清|欠清,清|欠清，规则|不规则,09|1.1
 2,淋巴结,甲状腺右侧叶,囊肿,TI-RADS 4c|TI-RADS 5,无回声|囊性回声,5|6,mm,有钙化,默认清,默认规则,未提及
 3,颈部淋巴结,unknown,其它,TI-RADS 6|unknown,等回声|低回声,7|8,cm,有钙化,默认清,默认规则,异常
